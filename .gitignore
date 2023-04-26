@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ADII/bin/Debug/net6.0
+/ADII/obj
+/ADII.App/obj
+/ADII.SampleApp/bin/Debug/net6.0
+/ADII.SampleApp/obj
+/ADII.SampleApp/appsettings.Local.json
+/ADII.SampleApp/Properties/launchSettings.json
+/IDI/obj/Debug/net6.0
